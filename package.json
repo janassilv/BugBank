@@ -1,0 +1,38 @@
+{
+  "name": "qa-aliare",
+  "version": "1.0.0",
+  "description": "Cypress - e2e Aliare",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:tests": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janassilv/qaaliare.git"
+  },
+  "keywords": [
+    "cypress",
+    "bdd",
+    "cucumber",
+    "gherkin"
+  ],
+  "author": "Janayna Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janassilv/qaaliare/issues"
+  },
+  "homepage": "https://github.com/janassilv/qaaliare#readme",
+  "dependencies": {
+    "cypress": "^14.2.0",
+    "prettier": "^3.5.3"
+  },
+  "@badeball/cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "gherkin-loader": "^0.0.1"
+  }
+}
