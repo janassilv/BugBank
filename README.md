@@ -1,7 +1,7 @@
 # qaaliare
 ---
 
-# Avaliação Técnica - Aliare - Automação de Testes End-to-End para BugBank
+# Automação de Testes End-to-End para BugBank
 
 Este projeto tem como objetivo automatizar testes end-to-end para o site [BugBank](https://bugbank.netlify.app/) utilizando a abordagem BDD (Behavior-Driven Development). O Cypress é o framework utilizado para rodar os testes, enquanto o Cucumber, integrado com o pre-processador `@badeball/cypress-cucumber-preprocessor`, é utilizado para escrever os cenários de teste em Gherkin. Os testes são executados no navegador Microsoft Edge.
 
