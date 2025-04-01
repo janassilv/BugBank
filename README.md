@@ -27,7 +27,7 @@ Antes de rodar o projeto, você precisa ter o seguinte instalado:
 1. **Clonar o repositório**:
 
    ```bash
-   git clone https://github.com/janassilv/qaaliare.git
+   git clone https://github.com/janassilv/qaaliare.git](https://github.com/janassilv/BugBank.git
    cd qaaliare
    ```
 
