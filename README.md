@@ -1,4 +1,4 @@
-# qaaliare
+# BugBank
 ---
 
 # Automação de Testes End-to-End para BugBank
